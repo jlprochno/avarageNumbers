@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\bin\Debug\net8.0\avarageNumbers.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\bin\Debug\net8.0\avarageNumbers.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\bin\Debug\net8.0\avarageNumbers.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\bin\Debug\net8.0\avarageNumbers.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\bin\Debug\net8.0\avarageNumbers.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\obj\Debug\net8.0\avarageNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\obj\Debug\net8.0\avarageNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\obj\Debug\net8.0\avarageNumbers.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\obj\Debug\net8.0\avarageNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\obj\Debug\net8.0\avarageNumbers.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\obj\Debug\net8.0\refint\avarageNumbers.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\obj\Debug\net8.0\avarageNumbers.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\obj\Debug\net8.0\avarageNumbers.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\avarageNumbers\obj\Debug\net8.0\ref\avarageNumbers.dll
